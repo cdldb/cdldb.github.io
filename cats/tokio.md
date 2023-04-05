@@ -19,7 +19,7 @@
 
 **Estado fértil:** Desconocido (Probablemente sin esterilizar, requerirá compromiso de esterilización)
 
-**Fotografías de Tokio:** [Ver fotos](https://imgur.com/a/U4hXoHK)
+**Fotografías de Tokio:** [Ver fotos](https://cdldb.github.io/photos/tokio)
 
 **Realizar cuestionario / iniciar adopción / acoger al gato:** Hablar con Sonia al [664125357](tel:664125357)
 
