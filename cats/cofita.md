@@ -1,3 +1,7 @@
+### Información sobre adopción
+
+ - [ ] Adoptado
+
 # Datos de Cofita
 
 **Gato de género:** Hembra
