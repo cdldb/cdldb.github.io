@@ -15,7 +15,7 @@
 
 **Estado fertil:** A punto de dar a luz (Embarazada / Preñada)
 
-**Fotografías de Gato desconocido #2:** [Ver fotos](https://imgur.com/a/tWatGDi)
+**Fotografías de Gato desconocido #2:** [Ver fotos](https://cdldb.github.io/photos/unknowncat2)
 
 **Realizar cuestionario / iniciar adopción / acoger al gato:** Hablar con Sonia al [664125357](tel:664125357)
 
