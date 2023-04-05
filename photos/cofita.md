@@ -1,12 +1,15 @@
 # Fotos de Cofita
 
- ### Foto 1
- ![Cofita sentada en el módulo](https://i.imgur.com/Xxp1ky8.jpg)
+### Foto 1
+
+![Cofita sentada en el módulo](https://i.imgur.com/Xxp1ky8.jpg)
 
 ### Foto 2
+
 ![Cofita sentada](https://i.imgur.com/gZCEPcf.jpg)
 
 ### Foto 3
+
 ![Cofita mirándote](https://i.imgur.com/tQOGbkN.jpg)
 
 ### Foto 4
