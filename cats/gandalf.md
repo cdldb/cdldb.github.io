@@ -15,7 +15,7 @@
 
 **Estado fertil:** Esterilizado
 
-**Fotografías de Gandalf:** [Ver fotos](https://imgur.com/a/MOsnoDs)
+**Fotografías de Gandalf:** [Ver fotos](https://cdldb.github.io/photos/gandalf)
 
 **Realizar cuestionario / iniciar adopción:** Hablar con Sonia al [664125357](tel:664125357)
 
