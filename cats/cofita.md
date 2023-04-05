@@ -16,7 +16,7 @@
 
 **Estado fértil:** Esterilizada
 
-**Fotografías de Cofita:** [Ver fotos](https://imgur.com/a/JJdiwA4)
+**Fotografías de Cofita:** [Ver fotos](https://cdldb.github.io/photos/cofita)
 
 **Realizar cuestionario / iniciar adopción:** Hablar con Sonia al [664125357](tel:664125357)
 
