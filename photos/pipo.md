@@ -1,12 +1,15 @@
 # Fotos de Pipo
 
- ### Foto 1
- ![Pipo tumbado](https://i.imgur.com/bxB8kVV.jpg)
+### Foto 1
+
+![Pipo tumbado](https://i.imgur.com/bxB8kVV.jpg)
 
 ### Foto 2
+
 ![Pipo mirándote](https://i.imgur.com/bz5F1Fl.jpg)
 
 ### Foto 3
+
 ![Pipo quiere jugar](https://i.imgur.com/p8RQHBo.jpg)
 
 ### Foto 4
