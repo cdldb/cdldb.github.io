@@ -1,7 +1,9 @@
-
-# Datos de Pipo
+### Información sobre adopción
 
  - [x] Adoptado
+
+
+# Datos de Pipo
 
 **Gato de género:** Macho
 
