@@ -1,6 +1,8 @@
 
 # Datos de Pipo
 
+ - [x] Adoptado
+
 **Gato de género:** Macho
 
 **Gato de tipo de pelaje**: Blanco con manchas negras, grises y cola atigrada
@@ -15,7 +17,7 @@
 
 **Estado fertil:** Esterilizado
 
-**Fotografías de Pipo:** [Ver fotos](https://imgur.com/a/2GPY3WT)
+**Fotografías de Pipo:** [Ver fotos](https://cdldb.github.io/photos/pipo)
 
 **Realizar cuestionario / iniciar adopción:** No es posible. Este gato ha sido adoptado
 
