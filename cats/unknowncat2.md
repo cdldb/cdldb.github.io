@@ -1,3 +1,7 @@
+###  Información sobre adopción
+
+- [ ] Adoptado
+
 
 # Datos de Gato desconocido #2 (Sin nombre)
 
