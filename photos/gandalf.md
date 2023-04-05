@@ -1,12 +1,15 @@
 # Fotos de Gandalf
 
- ### Foto 1
- ![De perfil](https://i.imgur.com/DVc3dUt.jpg)
+### Foto 1
+
+![De perfil](https://i.imgur.com/DVc3dUt.jpg)
 
 ### Foto 2
+
 ![Te miro](https://i.imgur.com/AWpvGwX.jpg)
 
 ### Foto 3
+
 ![Jugando](https://i.imgur.com/YPaLUNT.jpg)
 
 ### Foto 4
