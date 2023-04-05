@@ -3,9 +3,9 @@ Base de datos | 2023 | Versión 0.0.1a | Actualizado a abril de 2023 | 11:50AM /
 
 ## Ver gatos
 
-[Cofita](https://github.com/cdldb/cdldb.github.io/blob/main/cats/cofita.md)
+[Cofita](https://cdldb.github.io/cats/cofita.md)
 
-[Pipo](https://github.com/cdldb/cdldb.github.io/blob/main/cats/pipo.md)
+[Pipo](https://cdldb.github.io/cats/pipo.md)
 
-[Gato desconocido #2](https://github.com/cdldb/cdldb.github.io/blob/main/cats/unknowncat2.md)
+[Gato desconocido #2](https://cdldb.github.io/cats/unknowncat2.md)
 
