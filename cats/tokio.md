@@ -17,6 +17,6 @@
 
 **Fotografías de Tokio:** [Ver fotos](https://imgur.com/a/U4hXoHK)
 
-**Realizar cuestionario / iniciar adopción:** Hablar con Sonia al [664125357](tel:664125357)
+**Realizar cuestionario / iniciar adopción / acoger al gato:** Hablar con Sonia al [664125357](tel:664125357)
 
 **Estado:** En espera de ser acogido / Posible adopción por acogida
